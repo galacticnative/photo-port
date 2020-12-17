@@ -1,10 +1,10 @@
-#Photo-Port
-# Getting Started with Create React App
+# Photo-Port
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <br />
-Photo-Port is a react bases app that utilizes a SPA (Single Page App). Below explains how to test and run the app in the local environment. You can also view the live deployed app on GitHub pages at the following link:
+Photo-Port is a react based app that utilizes a SPA (Single Page App). Below explains how to test and run the app in the local environment. You can also view the live deployed app on GitHub pages at the following link:
 
 ## https://galacticnative.github.io/photo-port/
 
